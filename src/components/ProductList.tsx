@@ -5,10 +5,6 @@ import ProductCard from './ProductCard';
 import Link from 'next/link';
 import Filter from './Filter';
 
-
-
-
-
  const products: ProductTypes = [
   {
     id: 1,
